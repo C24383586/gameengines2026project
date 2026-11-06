@@ -1,6 +1,8 @@
 # gameengines2026project
 Project details:
+
 Team: Individual
+
 Tech & Asset Libraries: Godot asset library, Pixabay, Freesound + others for sfx, other assets may be made by me.
 
 Project Idea: Archery
