@@ -1,4 +1,4 @@
-# gameengines2026project
+# Idea Proposal
 Project details:
 
 Team: Individual
